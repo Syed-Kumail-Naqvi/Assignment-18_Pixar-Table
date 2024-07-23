@@ -1,6 +1,9 @@
 table {
     border-collapse: collapse;
 }
+h1 {
+    text-align: center;
+}
 .column {
     font-weight: bold;
 }
@@ -13,7 +16,7 @@ table {
     text-align: right;
 }
 .third-row {
-    background-color: rgb(223,224,217);
+    background-color: rgb(223,224,217)
 }
 .fifth-row {
     background-color: rgb(223,224,217);
